@@ -9,4 +9,4 @@ def display_board(board)
 end
 
 set = ['x', 'o', 'x', 'o', 'x', 'o', 'x', 'o', 'x']
-display_board(set)
+#display_board(set)
